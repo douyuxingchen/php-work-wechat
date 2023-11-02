@@ -10,3 +10,6 @@
 - https://github.com/go-laoji/wecom-go-sdk
 - https://github.com/NICEXAI/WeWorkFinanceSDK
 - https://github.com/zsmhub/workweixin
+
+## 问题
+- 中文乱码：https://developers.weixin.qq.com/community/develop/doc/000e4a8c7f07c8873caf864605d000?_at=1698822363426
